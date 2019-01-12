@@ -208,5 +208,9 @@ public class CiudadJpaController implements Serializable {
         for (Ciudad ciudad1 : ciudad) {
             System.out.println(ciudad1);
         }
+        
+        /**
+         * cambio efectuado por michael
+         */
     }
 }
