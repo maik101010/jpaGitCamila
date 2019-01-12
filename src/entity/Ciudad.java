@@ -99,7 +99,8 @@ public class Ciudad implements Serializable {
 
     @Override
     public String toString() {
-        return "entity.Ciudad[ idCiudad=" + idCiudad + " ]";
+        return "Ciudad{" + "idCiudad=" + idCiudad + ", nombreCiudad=" + nombreCiudad + '}';
     }
-    
+
+        
 }
